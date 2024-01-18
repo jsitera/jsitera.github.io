@@ -8,6 +8,43 @@ paginate: 5
 
 params:
   subtitle: Rodinný rozcestník
+  ui:
+    footer_about_disable: false
+    navbar_logo: false
+  links:
+    user:
+      - name: Twitter
+        url: 'https://twitter.com/jiri_sitera'
+        icon: fab fa-twitter
+        desc: Twitter/X home page
+      - name: Facebook
+        url: 'https://www.facebook.com/jiri.sitera'
+        icon: fab fa-facebook
+        desc: Facebook profile
+      - name: Instagram
+        url: 'https://www.instagram.com/jiri.sitera/'
+        icon: fab fa-instagram
+        desc: Instagram profile
+      - name: YouTube
+        url: 'https://www.youtube.com/channel/UCrxtCpCMUKJkKgousCRyl6Q'
+        icon: fab fa-youtube
+        desc: Youtube channel
+    developer:
+      - name: GitHub
+        url: 'https://github.com/jsitera'
+        icon: fab fa-github
+        desc: Github profile
+      - name: LinkedIn
+        url: 'https://www.linkedin.com/in/jiri-sitera-04890912/'
+        icon: fab fa-linkedin
+        desc: Personal LinkedIn profile
+      - name: User page - University of West Bohemia
+        url: 'https://home.zcu.cz/~sitera/'
+        icon: fa fa-envelope
+        desc: User page - University of West Bohemia
+
+
+
 
 module:
   proxy: direct
