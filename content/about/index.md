@@ -4,6 +4,9 @@ linktitle: About
 menu: {main: {weight: 30}}
 ---
 
+{{% blocks/section color="dark" %}}
 # Siterovi.cz
 **Work in progress.**
-Slouží k experimentům se statickým generátorem webů [HUGO](https://gohugo.io)
+Stránky spravované statickým generátorem webů [HUGO](https://gohugo.io) s použitím
+tématu [Docsy](https://www.docsy.dev/).
+{{% /blocks/section %}}
