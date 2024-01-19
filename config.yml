@@ -3,7 +3,6 @@ languageCode: en-us
 title: Siterovi.cz
 description: Rodinný rozcestník
 author: Jiří Sitera
-paginate: 5
 #theme: PaperMod
 
 params:
@@ -30,6 +29,10 @@ params:
         icon: fab fa-youtube
         desc: Youtube channel
     developer:
+      - name: 500px photo gallery
+        url: 'https://500px.com/p/sitera'
+        icon: fab fa-500px
+        desc: 500px photo gallery
       - name: GitHub
         url: 'https://github.com/jsitera'
         icon: fab fa-github

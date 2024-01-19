@@ -1,12 +1,13 @@
 ---
 title: Siterovi.cz
 linkTitle: Home
+type: home
 menu: {main: {weight: 10}}
 summary: Homepage siterovi.cz
 description: Siterovi family homepage
 ---
 
-{{< blocks/cover title="Siterovi.cz" image_anchor="top" height="auto" >}}
+{{< blocks/cover title="Siterovi.cz" image_anchor="top" height="full" >}}
 <a class="btn btn-lg btn-primary mb-3" href="https://helpdesk.zcu.cz/wiki/Public:Sitera/Linky">
   Linky - rozcestník na Internet
 </a>
@@ -14,9 +15,18 @@ description: Siterovi family homepage
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
-{{% blocks/section color="dark" type="row" %}}
 
-{{% imgproc js14-2_lg_lhota_zima Resize "400x" %}}
-Chodská Lhota zima
-{{% /imgproc %}}
+{{% blocks/section color="dark" type="row" %}}
+{{% blocks/feature3 icon="fa-person-dress" title="**Denisa**"%}}
+1973
+{{% /blocks/feature3 %}}
+{{% blocks/feature3 icon="fa-person" title="**Jiří**" url="/jiri"%}}
+1973
+{{% /blocks/feature3 %}}
+{{% blocks/feature3 icon="fa-person-dress" title="**Denisa**" url="https://denisasiterova.wordpress.com/" url_text="Dess" %}}
+2002
+{{% /blocks/feature3 %}}
+{{% blocks/feature3 icon="fa-person" title="**Jiří**" url="https://meowcraftorg.wordpress.com/" url_text="Japicraft"%}}
+2005
+{{% /blocks/feature3 %}}
 {{% /blocks/section %}}
