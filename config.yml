@@ -5,6 +5,24 @@ description: Rodinný rozcestník
 author: Jiří Sitera
 #theme: PaperMod
 
+menus:
+  main:
+    - name: Home
+      weight: 10
+      pageRef: /
+    - name: Jiří Sitera
+      weight: 20
+      pageRef: /jiri
+    - name: Dess
+      weight: 30
+      url: https://denisasiterova.wordpress.com/
+    - name: Japicraft
+      weight: 40
+      url: https://meowcraftorg.wordpress.com/
+    - name: About
+      weight: 50
+      pageRef: /about
+
 params:
   subtitle: Rodinný rozcestník
   ui:

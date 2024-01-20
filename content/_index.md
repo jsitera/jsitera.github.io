@@ -1,8 +1,8 @@
 ---
 title: Siterovi.cz
-linkTitle: Home
+#linkTitle: Home
 type: home
-menu: {main: {weight: 10}}
+#menu: {main: {weight: 10}}
 summary: Homepage siterovi.cz
 description: Siterovi family homepage
 ---

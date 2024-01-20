@@ -1,7 +1,7 @@
 ---
 title: Jiri Sitera 1973 homepage
-linktitle: Jiří sitera
-menu: {main: {weight: 20}}
+#linktitle: Jiří sitera
+#menu: {main: {weight: 20}}
 ---
 
 {{% blocks/cover image_anchor="bottom" title="Jiří Sitera" height="min" %}}

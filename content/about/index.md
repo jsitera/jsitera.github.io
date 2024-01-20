@@ -1,7 +1,7 @@
 ---
 title: About Siterovi.cz
-linktitle: About
-menu: {main: {weight: 30}}
+# linktitle: About
+# menu: {main: {weight: 30}}
 ---
 
 {{% blocks/section color="dark" %}}
