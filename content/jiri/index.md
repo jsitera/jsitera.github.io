@@ -13,15 +13,11 @@ title: Jiri Sitera 1973 homepage
 {{% blocks/feature icon="fa-droplet" title="Slow motion water" %}}
 {{< youtubepl id="PLPE6_GTrluAiYHo6KxJXQGeSL7TB6HWa6" title="Slow motin water YouTube channel" >}}
 {{% /blocks/feature %}}
-{{% blocks/feature icon="fa-camera-retro" title="Fotografie" url="https://500px.com/p/sitera" %}}
-- starší webová galerie *[Jiří Sitera photo gallery](http://home.zcu.cz/~sitera/gallery/)*
-- *[Instagram](https://www.instagram.com/jiri.sitera/)*
-- fotky v *[google mapách](https://www.google.com/maps/contrib/113020041194461814335/photos)*
-- *[500px profil](https://500px.com/p/sitera)*
+{{% blocks/feature icon="fa-camera-retro" title="Fotografie 500px" url="https://500px.com/p/sitera" %}}
 {{% /blocks/feature %}}
-{{% blocks/feature icon="fa-brands fa-x-twitter" title="Twitter" url="https://twitter.com/GoHugoIO" %}}
-For announcement of latest features etc.
+{{% blocks/feature icon="fab fa-instagram" title="Instagram" url="https://www.instagram.com/jiri.sitera/" %}}
 {{% /blocks/feature %}}
 {{< /blocks/section >}}
 
-# Sociální sítě
+- starší webová galerie *[Jiří Sitera photo gallery](http://home.zcu.cz/~sitera/gallery/)*
+- fotky v *[google mapách](https://www.google.com/maps/contrib/113020041194461814335/photos)*
