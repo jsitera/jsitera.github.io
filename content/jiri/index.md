@@ -6,8 +6,6 @@ type: normal
 ---
 
 {{% blocks/cover image_anchor="bottom" title="Jiří Sitera" height="min" %}}
-
-
 {{% /blocks/cover %}}
 {{< blocks/section color="dark" type="row" >}}
 {{% blocks/feature-click icon="fa-droplet" title="Slow motion water"
@@ -15,8 +13,10 @@ url="https://www.youtube.com/channel/UCrxtCpCMUKJkKgousCRyl6Q"%}}
 {{< youtubepl id="PLPE6_GTrluAiYHo6KxJXQGeSL7TB6HWa6" title="Slow motin water YouTube channel" >}}
 {{% /blocks/feature-click %}}
 {{% blocks/feature-click icon="fa-camera-retro" title="Fotografie 500px" url="https://500px.com/p/sitera" %}}
+![sitera 500px](sitera-500px.png "Sitera 500px")
 {{% /blocks/feature-click %}}
 {{% blocks/feature-click icon="fab fa-instagram" title="Instagram" url="https://www.instagram.com/jiri.sitera/" %}}
+![sitera instagram](sitera-instagram.png "Sitera instagram")
 {{% /blocks/feature-click %}}
 {{< /blocks/section >}}
 
@@ -29,11 +29,11 @@ url="https://www.youtube.com/channel/UCrxtCpCMUKJkKgousCRyl6Q"%}}
   <a href="https://twitter.com/jiri_sitera" class="stretched-link"></a>
   {{% /card %}}
   {{% card header="**<i class='fab fa-facebook'></i> Facebook**" %}}
-  ![sitera twitter](sitera-facebook.png "Sitera facebook")
+  ![sitera facebook](sitera-facebook.png "Sitera facebook")
   <a href="https://www.facebook.com/jiri.sitera/" class="stretched-link"></a>
   {{% /card %}}
   {{% card header="**<i class='fab fa-linkedin'></i> LinkedIn**" %}}
-  ![sitera twitter](sitera-linkedin.png "Sitera linkedin")
+  ![sitera linkedin](sitera-linkedin.png "Sitera linkedin")
   <a href="https://www.linkedin.com/in/jiri-sitera-04890912/" class="stretched-link"></a>
   {{% /card %}}
   {{% card header="**<i class='fab fa-github'></i> github**" %}}
