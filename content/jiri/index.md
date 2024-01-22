@@ -9,15 +9,15 @@ type: normal
 
 
 {{% /blocks/cover %}}
-
 {{< blocks/section color="dark" type="row" >}}
-{{% blocks/feature icon="fa-droplet" title="Slow motion water" %}}
+{{% blocks/feature-click icon="fa-droplet" title="Slow motion water"
+url="https://www.youtube.com/channel/UCrxtCpCMUKJkKgousCRyl6Q"%}}
 {{< youtubepl id="PLPE6_GTrluAiYHo6KxJXQGeSL7TB6HWa6" title="Slow motin water YouTube channel" >}}
-{{% /blocks/feature %}}
-{{% blocks/feature icon="fa-camera-retro" title="Fotografie 500px" url="https://500px.com/p/sitera" %}}
-{{% /blocks/feature %}}
-{{% blocks/feature icon="fab fa-instagram" title="Instagram" url="https://www.instagram.com/jiri.sitera/" %}}
-{{% /blocks/feature %}}
+{{% /blocks/feature-click %}}
+{{% blocks/feature-click icon="fa-camera-retro" title="Fotografie 500px" url="https://500px.com/p/sitera" %}}
+{{% /blocks/feature-click %}}
+{{% blocks/feature-click icon="fab fa-instagram" title="Instagram" url="https://www.instagram.com/jiri.sitera/" %}}
+{{% /blocks/feature-click %}}
 {{< /blocks/section >}}
 
 <br>
@@ -41,8 +41,7 @@ type: normal
   <a href="https://github.com/jsitera" class="stretched-link"></a>
   {{% /card %}}
 {{% /cardpane-wide %}}
+- Západočeská univerzita v Plzni [uživatelský profil](https://home.zcu.cz/~sitera/)
+- Starší webová galerie *[Jiří Sitera photo gallery](http://home.zcu.cz/~sitera/gallery/)*
+- Fotky v *[Google mapách](https://www.google.com/maps/contrib/113020041194461814335/photos)*
 {{% /blocks/section %}}
-
-
-- starší webová galerie *[Jiří Sitera photo gallery](http://home.zcu.cz/~sitera/gallery/)*
-- fotky v *[google mapách](https://www.google.com/maps/contrib/113020041194461814335/photos)*
