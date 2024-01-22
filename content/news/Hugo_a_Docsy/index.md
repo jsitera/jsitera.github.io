@@ -27,3 +27,9 @@ Toto je domácí stránka z roku 1996, poslední editace 2009. HTML, udržováno
 
 ## Základní dokumentace
 - Všechno v githubu, včetně automatického buildování a zveřejnění přes github pages.
+- Úpravy jsou popsány v commit zprávách nikoli komentářích
+
+### Příklady Docsy customizací
+- [Docsy příklady](https://www.docsy.dev/docs/examples/)
+- [Apache airflow source](https://github.com/apache/airflow-site)
+- [Dapr docs](https://github.com/dapr/docs)
