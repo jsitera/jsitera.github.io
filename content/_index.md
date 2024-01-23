@@ -17,16 +17,16 @@ description: Siterovi family homepage
 
 
 {{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature3 icon="fa-person-dress" title="**Denisa**"%}}
+{{% blocks/feature3-click icon="fa-person-dress" title="**Denisa**"%}}
 1973
-{{% /blocks/feature3 %}}
-{{% blocks/feature3 icon="fa-person" title="**Jiří**" url="/jiri"%}}
+{{% /blocks/feature3-click %}}
+{{% blocks/feature3-click icon="fa-person" title="**Jiří**" url="/jiri"%}}
 1973
-{{% /blocks/feature3 %}}
-{{% blocks/feature3 icon="fa-person-dress" title="**Denisa**" url="https://denisasiterova.wordpress.com/" url_text="Dess" %}}
+{{% /blocks/feature3-click %}}
+{{% blocks/feature3-click icon="fa-person-dress" title="**Denisa**" url="https://denisasiterova.wordpress.com/" url_text="Dess" %}}
 2002
-{{% /blocks/feature3 %}}
-{{% blocks/feature3 icon="fa-person" title="**Jiří**" url="https://meowcraftorg.wordpress.com/" url_text="Japicraft"%}}
+{{% /blocks/feature3-click %}}
+{{% blocks/feature3-click icon="fa-person" title="**Jiří**" url="https://meowcraftorg.wordpress.com/" url_text="Japicraft"%}}
 2005
-{{% /blocks/feature3 %}}
+{{% /blocks/feature3-click %}}
 {{% /blocks/section %}}
