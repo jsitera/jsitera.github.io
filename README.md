@@ -1,5 +1,5 @@
 # Siterovi.cz
-This is a family signpost and homepage. 
+This is a family signpost and homepage. Live site is here [siterovi.cz](https://siterovi.cz/)
 
 # Technical description
 This website is created using the static website generator [HUGO](https://gohugo.io) with the theme [Docsy](https://www.docsy.dev/) and [Bootstrap](https://getbootstrap.com/) toolbox.
