@@ -1,8 +1,7 @@
 ---
 title: Jiri Sitera 1973 homepage
 type: normal
-#linktitle: Jiří sitera
-#menu: {main: {weight: 20}}
+description: Domácí stránka s rozcestníkem na profily na souciálních sítích Jiří Sitera 1973, videa (slow motion water), fotografie a odkazy na další informace.
 ---
 
 {{% blocks/cover image_anchor="bottom" title="Jiří Sitera" height="min" %}}

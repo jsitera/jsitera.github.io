@@ -1,9 +1,9 @@
-baseURL: "https://jsitera.github.io/"
-languageCode: en-us
+baseURL: "https://siterovi.cz/"
+languageCode: cs-CZ
+DefaultContentLanguage: cs
 title: Siterovi.cz
-description: Rodinný rozcestník
+description: Rodinný rozcestník, Siterovi
 author: Jiří Sitera
-#theme: PaperMod
 
 menus:
   main:
@@ -24,48 +24,48 @@ menus:
       pageRef: /about
 
 params:
-  subtitle: Rodinný rozcestník
+  subtitle: Rodinný rozcestník Siterovi
   ui:
     footer_about_disable: false
     navbar_logo: false
   links:
     user:
-      - name: Twitter
+      - name: Twitter Jiří Sitera
         url: 'https://twitter.com/jiri_sitera'
         icon: fab fa-twitter
         desc: Twitter/X home page
-      - name: Facebook
+      - name: Facebook Jiří Sitera
         url: 'https://www.facebook.com/jiri.sitera'
         icon: fab fa-facebook
         desc: Facebook profile
-      - name: Instagram
+      - name: Instagram Jiří Sitera
         url: 'https://www.instagram.com/jiri.sitera/'
         icon: fab fa-instagram
         desc: Instagram profile
-      - name: YouTube
+      - name: YouTube Jiří Sitera
         url: 'https://www.youtube.com/channel/UCrxtCpCMUKJkKgousCRyl6Q'
         icon: fab fa-youtube
         desc: Youtube channel
     developer:
-      - name: 500px photo gallery
+      - name: 500px photo gallery Jiří Sitera
         url: 'https://500px.com/p/sitera'
         icon: fab fa-500px
         desc: 500px photo gallery
-      - name: GitHub
+      - name: GitHub Jiří Sitera
         url: 'https://github.com/jsitera'
         icon: fab fa-github
         desc: Github profile
-      - name: LinkedIn
+      - name: LinkedIn Jiří Sitera
         url: 'https://www.linkedin.com/in/jiri-sitera-04890912/'
         icon: fab fa-linkedin
         desc: Personal LinkedIn profile
-      - name: User page - University of West Bohemia
+      - name: User page Jiří Sitera - University of West Bohemia
         url: 'https://home.zcu.cz/~sitera/'
         icon: fa fa-envelope
         desc: User page - University of West Bohemia
 
 
-
+enableRobotsTXT: true
 
 module:
   proxy: direct

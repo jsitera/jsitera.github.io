@@ -1,10 +1,9 @@
 ---
 title: Siterovi.cz
-#linkTitle: Home
 type: home
 #menu: {main: {weight: 10}}
 summary: Homepage siterovi.cz
-description: Siterovi family homepage
+description: Siterovi - rodinný rozcestník a výstavní plocha, linky, fotografie, videa (slow motion water), odkazy
 ---
 
 {{< blocks/cover title="Siterovi.cz" image_anchor="top" height="full" >}}
