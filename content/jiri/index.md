@@ -43,4 +43,5 @@ url="https://www.youtube.com/channel/UCrxtCpCMUKJkKgousCRyl6Q"%}}
 - Západočeská univerzita v Plzni [uživatelský profil](https://home.zcu.cz/~sitera/)
 - Starší webová galerie *[Jiří Sitera photo gallery](http://home.zcu.cz/~sitera/gallery/)*
 - Fotky v *[Google mapách](https://www.google.com/maps/contrib/113020041194461814335/photos)*
+- [Veřejný SSH klíč](/jiri/data/id_jiri.sitera.pub)
 {{% /blocks/section %}}
