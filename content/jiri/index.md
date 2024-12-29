@@ -1,12 +1,28 @@
 ---
 title: Jiri Sitera 1973 homepage
 type: normal
-description: Domácí stránka s rozcestníkem na profily na souciálních sítích Jiří Sitera 1973, videa (slow motion water), fotografie a odkazy na další informace.
+description: Domácí stránka s rozcestníkem na profily na sociálních sítích Jiří Sitera 1973, videa (slow motion water), fotografie a odkazy na další informace.
 ---
 
 {{% blocks/cover image_anchor="bottom" title="Jiří Sitera" height="min" %}}
+<p class="lead mt-3 mb-3">
+1973, Pilsen
+</p>
+<p class="lead mt-3 mb-3">
+<a href="/">Family</a>,
+<a href="#td-block-1">photography,</a>
+walking, sunshine, water
+</p>
+<p class="lead mt-3 mb-3">
+<a href="https://fav.zcu.cz">FAV ZCU</a>,
+TCP/IP, HTC/HPC, distributed systems,
+<a href="https://iotlab.zcu.cz">IoT</a>,
+Linux, cybersecurity
+</p>
 {{% /blocks/cover %}}
-{{< blocks/section color="dark" type="row" >}}
+{{% blocks/section color="dark" type="row" %}}
+Moje fotografie
+{.h2}
 {{% blocks/feature-click icon="fa-droplet" title="Slow motion water"
 url="https://www.youtube.com/channel/UCrxtCpCMUKJkKgousCRyl6Q"%}}
 {{< youtubepl id="PLPE6_GTrluAiYHo6KxJXQGeSL7TB6HWa6" title="Slow motin water YouTube channel" >}}
@@ -17,7 +33,7 @@ url="https://www.youtube.com/channel/UCrxtCpCMUKJkKgousCRyl6Q"%}}
 {{% blocks/feature-click icon="fab fa-instagram" title="Instagram" url="https://www.instagram.com/jiri.sitera/" %}}
 ![sitera instagram](sitera-instagram.png "Sitera instagram")
 {{% /blocks/feature-click %}}
-{{< /blocks/section >}}
+{{% /blocks/section %}}
 
 <br>
 
