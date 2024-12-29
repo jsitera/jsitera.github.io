@@ -10,14 +10,19 @@ description: Domácí stránka s rozcestníkem na profily na sociálních sítí
 </p>
 <p class="lead mt-3 mb-3">
 <a href="/">Family</a>,
-<a href="#td-block-1">photography,</a>
-walking, sunshine, water
+<a href="#td-block-1">photography</a>,
+<a href="https://www.sports-tracker.com/view_profile/ji%C5%99%C3%ADsitera">walking</a>,
+<a href="https://500px.com/photo/1106113516/the-wonderful-light-and-the-endless-energy-of-the-sea.-by-jiri-sitera">sunshine</a>,
+<a href="https://www.youtube.com/channel/UCrxtCpCMUKJkKgousCRyl6Q">water</a>
 </p>
 <p class="lead mt-3 mb-3">
 <a href="https://fav.zcu.cz">FAV ZCU</a>,
-TCP/IP, HTC/HPC, distributed systems,
+TCP/IP,
+<a href="https://metacentrum.cz">HTC/HPC</a>,
+distributed systems,
 <a href="https://iotlab.zcu.cz">IoT</a>,
-Linux, cybersecurity
+Linux, cybersecurity,
+<a href="https://europen.cz">EurOpen.CZ</a>,
 </p>
 {{% /blocks/cover %}}
 {{% blocks/section color="dark" type="row" %}}
@@ -33,11 +38,15 @@ url="https://www.youtube.com/channel/UCrxtCpCMUKJkKgousCRyl6Q"%}}
 {{% blocks/feature-click icon="fab fa-instagram" title="Instagram" url="https://www.instagram.com/jiri.sitera/" %}}
 ![sitera instagram](sitera-instagram.png "Sitera instagram")
 {{% /blocks/feature-click %}}
+
+Moje fotografie najdete na výše odkázaných sociálních sítích. Speciální roli zde má galerie videí slow motion water kde je voda zachycena v pohybu a zpravidla v dynamickém prostředí fontány, vodopádu či vodního zařízení. Fotografie popisující konkrétní zajímavé místo umisťuji často do *[Google map](https://www.google.com/maps/contrib/113020041194461814335/photos)*. Starší fotografie jsou ve webové galerii *[Jiří Sitera photo gallery](http://home.zcu.cz/~sitera/gallery/)*.
 {{% /blocks/section %}}
 
 <br>
 
 {{% blocks/section color="white"%}}
+Sociální sítě
+{.h2}
 {{% cardpane-wide %}}
   {{% card header="<i class='fab fa-twitter'></i> **X/Twitter**" %}}
   ![sitera twitter](sitera-twitter.png "Sitera twitter")
@@ -57,7 +66,5 @@ url="https://www.youtube.com/channel/UCrxtCpCMUKJkKgousCRyl6Q"%}}
   {{% /card %}}
 {{% /cardpane-wide %}}
 - Západočeská univerzita v Plzni [uživatelský profil](https://home.zcu.cz/~sitera/)
-- Starší webová galerie *[Jiří Sitera photo gallery](http://home.zcu.cz/~sitera/gallery/)*
-- Fotky v *[Google mapách](https://www.google.com/maps/contrib/113020041194461814335/photos)*
 - [Veřejný SSH klíč](/jiri/data/id_jiri.sitera.pub)
 {{% /blocks/section %}}
