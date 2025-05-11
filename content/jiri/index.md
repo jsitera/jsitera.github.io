@@ -24,6 +24,8 @@ distributed systems,
 Linux, cybersecurity,
 <a href="https://europen.cz">EurOpen.CZ</a>,
 </p>
+<br>
+<img style="background:rgba(255, 255, 255, 0.5);height:60px;" src="ASCIIpodpis-transparent.png">
 {{% /blocks/cover %}}
 {{% blocks/section color="dark" type="row" %}}
 Moje fotografie
