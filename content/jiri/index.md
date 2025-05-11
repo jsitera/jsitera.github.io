@@ -24,8 +24,9 @@ distributed systems,
 Linux, cybersecurity,
 <a href="https://europen.cz">EurOpen.CZ</a>,
 </p>
-<br>
-<img style="background:rgba(255, 255, 255, 0.5);height:60px;" src="ASCIIpodpis-transparent.png">
+<img style="opacity: 0.6;height:50px;margin:15px;" src="Jiri-face-round.png">
+<img style="background:rgba(255, 255, 255, 0.5);height:50px;margin:15px;" src="ASCIIpodpis-transparent.png">
+<img style="opacity: 0.6;height:50px;margin:15px;" src="Jiri-sign-round.png">
 {{% /blocks/cover %}}
 {{% blocks/section color="dark" type="row" %}}
 Moje fotografie
@@ -41,7 +42,7 @@ url="https://www.youtube.com/channel/UCrxtCpCMUKJkKgousCRyl6Q"%}}
 ![sitera instagram](sitera-instagram.png "Sitera instagram")
 {{% /blocks/feature-click %}}
 
-Moje fotografie najdete na výše odkázaných sociálních sítích. Speciální roli zde má galerie videí slow motion water kde je voda zachycena v pohybu a zpravidla v dynamickém prostředí fontány, vodopádu či vodního zařízení. Fotografie popisující konkrétní zajímavé místo umisťuji často do *[Google map](https://www.google.com/maps/contrib/113020041194461814335/photos)*. Starší fotografie jsou ve webové galerii *[Jiří Sitera photo gallery](http://home.zcu.cz/~sitera/gallery/)*.
+Galerie videí *slow motion water*, zde je voda zachycena v pohybu a zpravidla v dynamickém prostředí fontány, vodopádu či vodního zařízení. Fotografie popisující konkrétní zajímavé místo umisťuji často do *[Google map](https://www.google.com/maps/contrib/113020041194461814335/photos)*. Starší fotografie jsou ve webové galerii *[Jiří Sitera photo gallery](http://home.zcu.cz/~sitera/gallery/)*. Novější fotografie ve výše uvedených sociálních sítích.
 {{% /blocks/section %}}
 
 <br>
