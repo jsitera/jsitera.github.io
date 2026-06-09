@@ -1,5 +1,5 @@
 baseURL: "https://siterovi.cz/"
-languageCode: cs-CZ
+locale: cs-CZ
 DefaultContentLanguage: cs
 title: Siterovi.cz
 description: Rodinný rozcestník, Siterovi
@@ -26,7 +26,7 @@ menus:
 params:
   subtitle: Rodinný rozcestník Siterovi
   ui:
-    footer_about_disable: false
+    footer_about_enable: true
     navbar_logo: false
   links:
     user:
@@ -66,6 +66,11 @@ params:
 
 
 enableRobotsTXT: true
+
+security:
+  node:
+    permissions:
+      allowRead: ['.', '$CACHE', '$PWD/node_modules']
 
 module:
   proxy: direct
